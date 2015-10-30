@@ -1,0 +1,2 @@
+# qame
+Minimalistic QA framework
